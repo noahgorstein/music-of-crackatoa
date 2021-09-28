@@ -1,6 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Music of Crackatoa 
+layout: default
 ---
+
+<pre>
+-----------------------------------------
+--- music -------------------------------
+-----------------------------------------
+----------------------- of --------------
+--------------------------- crackatoa ---
+-----------------------------------------
+
+ON REPEAT
+
+2021-09-25 - <a href="https://open.spotify.com/playlist/4hmnIInABFoqqiUeAGoqYa?si=5aea04dbdc6f4464">Fish for Sale, Bread for Rent</a>
+
+</pre>

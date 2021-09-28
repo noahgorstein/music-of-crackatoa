@@ -1,0 +1,12 @@
+pre {
+    display: block;
+    font: 11.0px 'monaco';
+    width: 585px;
+		margin: 1em 0px;
+    position: relative;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
