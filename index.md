@@ -23,3 +23,16 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+
+## DISCOVER WEEKLY
+
+> Discover Weekly mashups. Updates every 7 days on Monday.
+
+<ul>
+{% for playlist in site.data.discover_weekly %}
+  <li>
+    {{ playlist.creation_date }} »» <a href="{{ playlist.playlist_uri }}">{{ playlist.playlist_name }}</a>
+  </li>
+{% endfor %}
+</ul>
+
