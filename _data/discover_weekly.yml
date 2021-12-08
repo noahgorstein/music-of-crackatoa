@@ -8,7 +8,7 @@
 
 - playlist_name: The Weekly Lasagna - Vol. 3
   creation_date: 2021-11-01
-  playlist_uri: https://open.spotify.com/playlist/78JaCUbW3CPxNgoO7AUttW?si=fd655ea5b8004a76 
+  playlist_uri: https://open.spotify.com/playlist/78JaCUbW3CPxNgoO7AUttW?si=fd655ea5b8004a76
 
 - playlist_name: The Weekly Lasagna - Vol. 4
   creation_date: 2021-11-08
@@ -18,6 +18,10 @@
   creation_date: 2021-11-15
   playlist_uri: https://open.spotify.com/playlist/5jMaRKx22PBNOactHpY3gN?si=7f4bcda2fe064680
 
-- playlist_name:  The Weekly Lasagna - Vol. 6
-  creation_date:  2021-11-22
-  playlist_uri:  https://open.spotify.com/playlist/3Z7GutvGL6wC40gcNbSoYB
+- playlist_name: The Weekly Lasagna - Vol. 6
+  creation_date: 2021-11-22
+  playlist_uri: https://open.spotify.com/playlist/3Z7GutvGL6wC40gcNbSoYB
+
+- playlist_name: The Weekly Lasagna - Vol. 8
+  creation_date: 2021-12-08
+  playlist_uri: https://open.spotify.com/playlist/3QwpDIWBaqC9SjdwWakoh2
