@@ -14,7 +14,7 @@
   creation_date: 2021-10-10
   playlist_uri: https://open.spotify.com/playlist/0pNftlyg94oH8wG1IzQJ0b?si=0a8863e804254374
 
-- playlist_name: 'Squash: The Bug'
+- playlist_name: "Squash: The Bug"
   creation_date: 2021-10-15
   playlist_uri: https://open.spotify.com/playlist/4mcUIoXtDurKSNsKk2fL6X?si=2061185e277046b0
 
@@ -32,8 +32,12 @@
 
 - playlist_name: Rabbi West
   creation_date: 2021-11-04
-  playlist_uri: https://open.spotify.com/playlist/5PuWtHRHOh4VcYXQLTzXAI?si=57fa89bf3dbd4461 
+  playlist_uri: https://open.spotify.com/playlist/5PuWtHRHOh4VcYXQLTzXAI?si=57fa89bf3dbd4461
 
 - playlist_name: Tasmanian Love
   creation_date: 2021-11-13
   playlist_uri: https://open.spotify.com/playlist/4rLmnuHCuidG00iHp3b2pZ?si=2d07eba7fe40463b
+
+- playlist_name: Centrifugal Intensity
+  creation_date: 2021-12-18
+  playlist_uri: https://open.spotify.com/playlist/0xg0RxKoZAkpJf9AtbHpSu
